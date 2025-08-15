@@ -2,7 +2,7 @@
 
 Este repositório foi criado para **ensinar Git, GitHub e GitHub Actions** de forma prática e simples para os alunos da ***Antonio Meneghetti Faculdade***, publicando um site estático no **GitHub Pages**.
 ---
-![Imagem da aula](assets/image.png)
+![Imagem da aula](./public/assets/image.jpg)
 
 ## 📚 Objetivo da Aula
 
